@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-parent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.nav-menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-menu li{
+    margin: 0px 30px;
+    list-style: none;
+}
+.nav-menu a{
+    text-decoration: none;
+}
