@@ -40,6 +40,15 @@ this is btns styles
     border: none;
     cursor: pointer;
 }
+.outline-btn{
+    font-size: 14px;
+    color: #1D4ED8;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 2px solid #1D4ED8;
+    cursor: pointer;
+}
 
 /* 
 ==============================
@@ -168,8 +177,120 @@ this is pricing plans styles
     width: 70%;
     margin: 50px auto;
 }
-.pricing-container h2{
+.section-title{
     text-align: center;
+}
+.section-title h2{
     font-size: 3em;
+    margin-bottom: 15px;
+}
+.pricing-card-container{
+    display: flex;
+    margin: 50px auto;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.pricing-card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+    padding: 30px;
+}
+.pricing-header{
+    margin-bottom: 20px;
+}
+.pricing-header{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.pricing-header span{
+    font-weight: bold;
+    color: #575757;
+}
+.pricing-header h3{
+    font-size: 44px;
+}
+.pricing-header p{
+    color: #575757;
+}
+.pricing-card hr{
+    border: none;
+    height: 2px;
+    background-color: #E5E7EB;
+}
+.pricing-card ul{
+    margin: 10px 0px;
+    padding-left: 20px;
+}
+.pricing-card li{
+    margin: 10px 0px;
+}
+.pricing-card li::marker{
+    color: #2563EB;
+}
+.features{
+    background-color: #0D1B2A;
+    color: white;
+}
+.features span{
+    color: #93C5FD;
 }
 
+
+
+
+
+
+
+
+
+/* 
+==============================
+this is footer styles
+==============================
+*/
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: space-between;
+    background-color: #0D1B2A;
+    padding: 50px;
+    color: #6E767F;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+}
+.footer ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.footer li{
+    list-style: none;
+}
+.footer li a{
+    color: #6E767F;
+    font-size: 30px;
+    text-decoration: none;
+}
+.footer hr{
+    border: none;
+    height: 2px;
+    background-color: #6E767F;
+}
+.footer-bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-bottom li a{
+    font-size: 16px;
+}
