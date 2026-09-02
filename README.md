@@ -44,7 +44,6 @@ The project focuses on creating a clean, modern, and responsive user interface u
 - CSS3
 - CSS Flexbox
 - CSS Grid
-- Responsive Web Design
 
 ---
 
