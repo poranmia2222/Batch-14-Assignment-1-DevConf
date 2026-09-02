@@ -61,11 +61,9 @@ Batch-14-Assignment-1-DevConf/
 ```
 
 
-### ⭐ For your HTML/CSS project
+## 🚀 Run Locally
 
-Since this is a simple **HTML + CSS website**, you don't need `npm install` or `npm run dev`. The above is enough.
-
-Your original:
+1. Clone the repository:
 
 ```bash
 https://github.com/poranmia2222/Batch-14-Assignment-1-DevConf.git
