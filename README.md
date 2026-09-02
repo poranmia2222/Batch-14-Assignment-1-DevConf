@@ -7,7 +7,7 @@ This is my **first website project using HTML and CSS**, created as part of my w
 ## 📸 Screenshot
 ---
 
-![Nature's Pattern Screenshot](./assets/Nature's%20Pattern%20Screenshot.png)
+![DEVCONF](./assets/devconf.png)
 
 ## 🌐 Live Demo
 
@@ -60,3 +60,16 @@ Batch-14-Assignment-1-DevConf/
 │
 ├── index.html
 └── README.md
+
+---
+```
+
+
+### ⭐ For your HTML/CSS project
+
+Since this is a simple **HTML + CSS website**, you don't need `npm install` or `npm run dev`. The above is enough.
+
+Your original:
+
+```bash
+https://github.com/poranmia2222/Batch-14-Assignment-1-DevConf.git
