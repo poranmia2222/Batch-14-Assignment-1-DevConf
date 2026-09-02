@@ -4,6 +4,11 @@ A modern and responsive conference landing page built using **HTML5 and CSS3**.
 
 This is my **first website project using HTML and CSS**, created as part of my web development learning journey. Through this project, I practiced building a complete webpage from scratch and learned how to structure and style a responsive website.
 
+## 📸 Screenshot
+---
+
+![Nature's Pattern Screenshot](./assets/Nature's%20Pattern%20Screenshot.png)
+
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
